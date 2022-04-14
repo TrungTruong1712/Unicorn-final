@@ -32,3 +32,22 @@ header #main-menu .item {
     font-family: 'Quicksand', sans-serif;
     align-items: center;
 }
+li {
+    display: flex;
+}
+.item:hover{
+    font-style:#ffffff;
+    border-radius:15px;
+    background-color: #88acf8;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+}
