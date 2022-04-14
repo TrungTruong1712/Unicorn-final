@@ -22,7 +22,7 @@ header {
 header #main-menu {
     padding: 0;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
 }
 header #main-menu .item {
