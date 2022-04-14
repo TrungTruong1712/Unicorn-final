@@ -32,9 +32,7 @@ header #main-menu .item {
     font-family: 'Quicksand', sans-serif;
     align-items: center;
 }
-header #main-menu img{
-    margin-right: 255px;
-}
+
 li {
     display: flex;
 }
